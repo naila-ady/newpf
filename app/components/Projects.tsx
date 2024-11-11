@@ -57,6 +57,7 @@ const Project=() =>{
                </Link>
             </div>
           </div>
+          </div>
            <div className="px-2 w-1/2">
           <div className="flex flex-wrap w-full bg-gray-100 sm:py-24 py-16 sm:px-10 px-6 relative">
             <Image
@@ -73,7 +74,7 @@ const Project=() =>{
               <p className="leading-relaxed text-[#d28882]">
                Clone of GIAIC website  using Next.JS And React Components.
                </p>
-               <Link href={"https://newpf-three.vercel.app/"} className="mt-3 text-indigo-500 inline-flex items-center">
+               <Link href={"https://governer-website-nailaadys-projects.vercel.app/"} className="mt-3 text-indigo-500 inline-flex items-center">
                  View Project
               </Link>
             </div>
@@ -82,7 +83,7 @@ const Project=() =>{
       </div>
     </div>
   </div>
-  </div>
+  
 </section>
 
 
