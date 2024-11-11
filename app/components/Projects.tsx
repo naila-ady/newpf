@@ -34,7 +34,7 @@ const Project=() =>{
            </Link>
         </div>
       </div>
-      </div>
+      
       <div className="flex flex-wrap -mx-2">
         <div className="px-2 w-1/2">
           <div className="flex flex-wrap w-full bg-gray-100 sm:py-24 py-16 sm:px-10 px-6 relative">
@@ -70,11 +70,10 @@ const Project=() =>{
               <h2 className="text-3xl text-[#003152] font-semibold title-font mb-2">
               GIAIC WEBSITE 
               </h2>
-              <p className="leading-relaxed  text-[#d28882]">
+              <p className="leading-relaxed text-[#d28882]">
                Clone of GIAIC website  using Next.JS And React Components.
                </p>
-               <Link href={"https://amazon-com-one.vercel.app/"}
-               className="mt-3 text-indigo-500 inline-flex items-center">
+               <Link href={"https://newpf-three.vercel.app/"} className="mt-3 text-indigo-500 inline-flex items-center">
                  View Project
               </Link>
             </div>
@@ -82,6 +81,7 @@ const Project=() =>{
         </div>
       </div>
     </div>
+  </div>
   </div>
 </section>
 
