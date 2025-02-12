@@ -25,10 +25,10 @@ const Project=() =>{
             Amazon Clone
           </h2>
           <p className="leading-relaxed text-[#d28882]" >
-               Amazon clone based on only HTML5 & CSS3.
+               Resume Bilder with shareable link and PDF format
                A Project fully Responsive & Attractive. 
           </p>
-          <Link href={"https://amazon-com-one.vercel.app/"}
+          <Link href={"https://milestone5-pdf-shareable-link.vercel.app/"}
            className="mt-3 text-indigo-500 inline-flex items-center">
           View Project
            </Link>
@@ -72,9 +72,9 @@ const Project=() =>{
               GIAIC WEBSITE 
               </h2>
               <p className="leading-relaxed text-[#d28882]">
-               Clone of GIAIC website  using Next.JS And React Components.
+               Clone of GIAIC website using Tailwind CSS ,Next.JS And React Components.
                </p>
-               <Link href={"https://governer-website-nailaadys-projects.vercel.app/"} className="mt-3 text-indigo-500 inline-flex items-center">
+               <Link href={"https://govsindhit.vercel.app/"} className="mt-3 text-indigo-500 inline-flex items-center">
                  View Project
               </Link>
             </div>
