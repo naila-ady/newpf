@@ -29,6 +29,7 @@ import { IoCloudDownloadOutline } from "react-icons/io5";
      <a href="#">
       <button className="inline-flex items-center text-[#d28882] bg-[#74bedb]  border-0 py-1 px-3 mx-0
       focus:outline-none hover:bg- rounded text-base mt-4 md:mt-0 gap-1">
+       <Link>https://github.com/naila-ady/cvbasic/blob/main/naila%20adnan%20resume.pdf</Link>
         My-Resume
         <div className="text-2xl text-[#d28882] ">
        <IoCloudDownloadOutline/></div>
