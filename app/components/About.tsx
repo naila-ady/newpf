@@ -22,7 +22,7 @@ const About=() =>{
         </button>
       </div>
       <p className="text-lg mt-2 text-[#003152] mb-8 w-full">
-        Contact:111-00-111<br/>
+        Contact:0331-3241980<br/>
         E-mail:bholoady@gmail.com
       </p>
      
