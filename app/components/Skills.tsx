@@ -79,7 +79,7 @@ const Skills=() =>{
       </div>
     </div>
     <button className="flex mx-auto mt-16 text-2xl font-semibold text-[#d28882] bg-cyan-700 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded">
-      View About
+     My Resume
     </button>
   </div>
 </section>
