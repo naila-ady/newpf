@@ -15,14 +15,14 @@ const Project=() =>{
       <div className="flex flex-wrap w-full bg-gray-100 py-32 px-10 relative mb-4">
         <Image
           src={img}
-          alt="amazon"
+          alt="resumebuilder"
           width={100}
           height={100}
             className="w-full object-cover h-full object-center block opacity-35 absolute inset-0"/>
         
         <div className="text-center relative z-10 w-full">
           <h2 className="text-3xl text-[#003152] font-semibold title-font mb-2">
-            Amazon Clone
+            Resume Builder
           </h2>
           <p className="leading-relaxed text-[#d28882]" >
                Resume Bilder with shareable link and PDF format
