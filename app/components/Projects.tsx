@@ -51,7 +51,7 @@ const Project=() =>{
               <p className="leading-relaxed text-[#d28882]">
                  An Static Resume with Dyanmic pages,
                   </p>
-              <Link href={"https://static-resume-9xb1dlyoy-nailaadys-projects.vercel.app"} 
+              <Link href={"https://finalstaticresume-sepia.vercel.app/"} 
               className="mt-3 text-indigo-500 inline-flex items-center">
                 View Project
                </Link>
