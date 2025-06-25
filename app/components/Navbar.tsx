@@ -26,9 +26,11 @@ import { IoCloudDownloadOutline } from "react-icons/io5";
         <Link href={"#Contact"} className="mr-5  text-[#d28882]  text-1xl hover:text-[#003152]">
         Contact</Link>
       </nav>
-     <Link href={"www.linkedin.com/in/nailakamdar-adnan-a2a30a369
-
-     "}>
+     <a 
+  href="https://www.linkedin.com/in/your-username" 
+  target="_blank" 
+  rel="noopener noreferrer"
+>
       <button className="inline-flex items-center text-[#d28882] bg-[#74bedb]  border-0 py-1 px-3 mx-0
       focus:outline-none hover:bg- rounded text-base mt-4 md:mt-0 gap-1">
        
