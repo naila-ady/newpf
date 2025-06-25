@@ -21,8 +21,8 @@ const Skills=() =>{
         <FaBattleNet />
         </div>
           <span className="title-font font-semibold text-[#003152] ml-6">
-               HTML5 &
-              CSS3
+               HTML3 ,CSS# &
+              TypeScript
           </span>
         </div>
       </div>
@@ -32,8 +32,8 @@ const Skills=() =>{
         <FaBattleNet />
         </div>
           <span className="title-font font-semibold text-[#003152] ml-6">
-          JavaScript
-          TypeScript
+         Git &
+          GitHub     
           </span>
         </div>
       </div>
@@ -45,7 +45,7 @@ const Skills=() =>{
           
           <span className="title-font font-semibold text-[#003152]  ml-6">
             Next.js
-          React</span>
+          Mongo DB</span>
         </div>
       </div>
       <div className="p-2 sm:w-1/2 w-full">
@@ -54,7 +54,8 @@ const Skills=() =>{
         <FaBattleNet />
         </div>
           <span className="title-font font-semibold text-[#003152]  ml-6">
-          UI And UX
+          UI , UX and Figma
+              
           </span>
         </div>
       </div>
@@ -64,7 +65,7 @@ const Skills=() =>{
         <FaBattleNet />
         </div>
           <span className="title-font font-semibold text-[#003152]  ml-6">
-            Figma</span>
+            Python</span>
         </div>
       </div>
       <div className="p-2 sm:w-1/2 w-full">
@@ -73,8 +74,7 @@ const Skills=() =>{
         <FaBattleNet />
         </div>
           <span className="title-font font-semibold text-[#003152]  ml-6">
-            Git &
-          GitHub</span>
+           OPenAI AgentSDK</span>
         </div>
       </div>
     </div>
